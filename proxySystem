@@ -1,0 +1,22 @@
+技术架构
+  1.开发工具
+  2.技术框架
+    应用层：SpringMVC
+    持久层：MyBaties
+    安全框架：apache Shiro
+    数据库连接池：Druid
+    服务通信：Dubbo
+    定时任务：Quartz
+   3.运行环境
+    数据库：Oracle
+    JDK：JDK1.8
+    
+服务通信：
+  1.Report报表系统：DUBBO服务通信，每天采集会员投注、输赢、存取款、优惠、洗码等数据
+  2.Office系统：DUBBO服务同行，
+    （1）新增代理同步到OFFICE
+    （2）域名绑定数据同步到OFFICE
+    （3）查询会员或代理会员下线优惠
+    （4）根据代理ID获取其下线会员（采集数据，统计佣金功能）
+    
+    
