@@ -7,3 +7,5 @@ spring cloud stream小demo: https://github.com/seagrape/SpringCloudStream/blob/m
 kafka入门文章: https://www.cnblogs.com/luotianshuai/p/5206662.html
 kafka官方中文博客: http://orchome.com/kafka/index
 周立的博客(Spring boot, Spring cloud教程): http://www.itmuch.com/
+Kafka 设计解析（一）- Kafka 背景及架构介绍: http://www.jasongj.com/2015/03/10/KafkaColumn1/
+Kafka 设计解析（四）- Kafka Consumer 设计解析: http://www.jasongj.com/2015/08/09/KafkaColumn4/
