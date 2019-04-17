@@ -10,3 +10,5 @@ kafka官方中文博客: http://orchome.com/kafka/index
 Kafka 设计解析（一）- Kafka 背景及架构介绍: http://www.jasongj.com/2015/03/10/KafkaColumn1/
 Kafka 设计解析（四）- Kafka Consumer 设计解析: http://www.jasongj.com/2015/08/09/KafkaColumn4/
 kafka原理CSDN: https://blog.csdn.net/ebay/article/details/46549661
+
+远程机器: 10.2.140.17
